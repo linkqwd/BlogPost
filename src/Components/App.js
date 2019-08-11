@@ -8,7 +8,7 @@ import { LATEST_POSTS, VIEW_POST_PARAM } from "../url-map";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <HeaderH1>
         <Link to={LATEST_POSTS}>Blog post</Link>
       </HeaderH1>
