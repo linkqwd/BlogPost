@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/linkqwd/BlogPost/static/js/main.5ff51244.chunk.js",
+    "main.js.map": "/linkqwd/BlogPost/static/js/main.5ff51244.chunk.js.map",
+    "runtime~main.js": "/linkqwd/BlogPost/static/js/runtime~main.d36c3150.js",
+    "runtime~main.js.map": "/linkqwd/BlogPost/static/js/runtime~main.d36c3150.js.map",
+    "static/js/2.6b2a1219.chunk.js": "/linkqwd/BlogPost/static/js/2.6b2a1219.chunk.js",
+    "static/js/2.6b2a1219.chunk.js.map": "/linkqwd/BlogPost/static/js/2.6b2a1219.chunk.js.map",
+    "index.html": "/linkqwd/BlogPost/index.html",
+    "precache-manifest.7321a068fe2fed7e3399c25db96bd0eb.js": "/linkqwd/BlogPost/precache-manifest.7321a068fe2fed7e3399c25db96bd0eb.js",
+    "service-worker.js": "/linkqwd/BlogPost/service-worker.js"
+  }
+}
